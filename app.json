@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+    "TOKEN": "NTI4MjQ2NjIwNzQwMTI0Njgy.Dwffww.jXKqkKgTSuHaR6Ij5U6QXNkGeh0"
+  },
+  "formation": {
+  },
+  "name": "cash",
+  "scripts": {
+    "postdeploy": "node app.js"
+  },
+  "stack": "heroku-18"
+}
